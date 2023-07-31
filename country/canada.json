@@ -1,0 +1,99 @@
+[
+    {
+        "Date": "July 12, 2023",
+        "Value": 5.0,
+        "Data":{
+            "Target": 5.0,
+            "Change": 0.25
+        },
+        "Source": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
+    },
+    {
+        "Date": "June 7, 2023",
+        "Data":{
+            "Target": 4.75,
+            "Change": 0.25
+        },
+        "Source": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
+    },
+    {
+        "Date": "April 12, 2023",
+        "Data":{
+            "Target": "4.50",
+            "Change": 0
+        },
+        "Source": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
+    },
+    {
+        "Date": "March 8, 2023",
+        "Data":{
+            "Target": 4.5,
+            "Change": 0
+        },
+        "Source": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
+    },
+    {
+        "Date": "January 25, 2023",
+        "Data":{
+            "Target": 4.5,
+            "Change": 0.25
+        },
+        "Source": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
+    },
+    {
+        "Date": "December 7, 2022",
+        "Data":{
+            "Target": 4.25,
+            "Change": 0.50
+        },
+        "Source": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
+    },
+    {
+        "Date": "October 26, 2022",
+        "Data":{
+            "Target": 3.75,
+            "Change": 0.50
+        },
+        "Source": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
+    },
+    {
+        "Date": "September 7, 2022",
+        "Data":{
+            "Target": 3.25,
+            "Change": 0.75
+        },
+        "Source": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
+    },
+    {
+        "Date": "July 13, 2022",
+        "Data":{
+            "Target": 2.50,
+            "Change": 1
+        },
+        "Source": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
+    },
+    {
+        "Date": "June 1, 2022",
+        "Data":{
+            "Target": 1.50,
+            "Change": 0.50
+        },
+        "Source": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
+    },
+    {
+        "Date": "April 13, 2022",
+        "Data":{
+            "Target": 1,
+            "Change": 0.50
+        },
+        "Source": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
+    },
+    {
+        "Date": "March 2, 2022",
+        "Data":{
+            "Target": 0.50,
+            "Change": 0.25
+        },
+        "Source": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
+    }
+]
